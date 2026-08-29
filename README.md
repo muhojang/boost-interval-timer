@@ -1,2 +1,7 @@
-# boost-interval-timer
-Boost — interval training timer.
+<div align="center">
+
+# 부스트: 인터벌 트레이닝 타이머
+
+_인터벌 트레이닝, 타바타 등 운동 세션 타이머 및 기록 서비스_
+
+</div>
